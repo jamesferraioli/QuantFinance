@@ -1,0 +1,2 @@
+orderId,execId,time,exchange,side,shares,symbol,price,permId,liquidation,cumQty,avgPrice
+833930595,0001f4e5.5ae79032.01.01,20180430  18:01:39,GLOBEX,BOT,1,NQ,6611.25,748128827,0,1,6611.25
